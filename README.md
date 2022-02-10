@@ -1,2 +1,2 @@
-# numerical_analysis
-Code for numerical analysis class
+# Numerical Analysis
+Python code snippets for numerical analysis class
